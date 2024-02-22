@@ -1,1 +1,1 @@
-This is the repository for DATA 606- Capstone in Data Science. We are working on building a machine learning model to predict energy demand and energy price.
+This is the repository for DATA 606- Capstone in Data Science. We are working on building a machine learning model to predict energy load demand and energy price of Spain using energy and weather data of Spain from the year 2015 to 2018.
