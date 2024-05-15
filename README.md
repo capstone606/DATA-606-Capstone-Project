@@ -32,7 +32,7 @@
     ·
     <a href="https://github.com/capstone606/DATA-606-Capstone-Project/blob/main/TeamG_phase1.ipynb">Python Code</a>
      ·
-    <a href="https://github.com/capstone606/DATA-606-Capstone-Project/blob/main/TeamG_phase1.ipynb">Presentation</a>
+    <a href="https://github.com/capstone606/DATA-606-Capstone-Project/blob/main/DS606_TeamG_Boddu_Khan_Madhireddy_Malyala_EnergyLoadAndPricePrediction_P3Final.pptx">Presentation</a>
     
   </p>
 </div>
