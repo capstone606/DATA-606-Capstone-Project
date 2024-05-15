@@ -74,7 +74,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This project focuses on analyzing historical energy consumption data alongside weather patterns to forecast future electricity load and electricity price of Spain. We have hourly data of energy and weather of Spain from the year 2015 to 2018. We are splitting our data into training and testing set. Training set being 3 years of historical data(from year 2015 to 2017) and testing set being different size of the year 2048. Ex: 1 Day, 1 Week, 1 Month, 6 Months, 1 Year. We used models like Linear Regression, Random Forest, XG Boost, LSTM to predict future price and load. We achieved good predictions when using LSTM model.    
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
@@ -91,16 +91,8 @@ Use the `BLANK_README.md` to get started.
 
 ### Tools and Libraries Used
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+We have used Machine Learning libraries like Tensorflow,XG Boost, SK Learn and Python libraries like Pandas, Numpy, Seaborn, Math. We have used tools like Google Colab, GitHUB.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
