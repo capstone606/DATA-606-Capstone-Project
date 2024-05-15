@@ -44,7 +44,7 @@
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">Explore Documentation</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Explore Code</a>
+    <a href="https://github.com/capstone606/DATA-606-Capstone-Project/blob/main/TeamG_phase1.ipynb">Explore Code</a>
     
   </p>
 </div>
