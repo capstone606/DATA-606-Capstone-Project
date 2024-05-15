@@ -47,9 +47,9 @@
     <li>
       <a href="#Tools-and-Libraries-Used">Tools and Libraries Used</a>
     </li>
-    <li><a href="#usage">Models Built</a></li>
-    <li><a href="#roadmap">Results</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#Models-Built">Models Built</a></li>
+    <li><a href="#Model-Results">Model Results</a></li>
+    <li><a href="#Acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
