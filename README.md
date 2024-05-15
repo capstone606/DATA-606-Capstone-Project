@@ -115,5 +115,5 @@ We thank our professor Unal Sakoglu for invaluable guidance and support througho
 [Google Colab]:https://media.licdn.com/dms/image/D5612AQFCsBJ9kV2Meg/article-cover_image-shrink_600_2000/0/1693671062221?e=2147483647&v=beta&t=kuUAueWD4OeUWzJd6f_zqZbBT6KO3xgW_Uw-2AcCb0M
 
 [Google Colab-url]: https://colab.research.google.com/
-[model-screenshot]: https://drive.google.com/file/d/17pxZ9VieDR9wWMWN20FwRj8Nd0OGQJSt/view/
+[model-screenshot]: https://github.com/capstone606/DATA-606-Capstone-Project/blob/main/tso%20compare.png?raw=true
 
