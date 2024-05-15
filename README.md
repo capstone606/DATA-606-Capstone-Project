@@ -28,9 +28,11 @@
   </a>
 
   <h3 align="center">Electricity Price and Load Prediction</h3>
-    <a href="https://github.com/othneildrew/Best-README-Template">Explore Documentation</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">Documentation</a>
     ·
-    <a href="https://github.com/capstone606/DATA-606-Capstone-Project/blob/main/TeamG_phase1.ipynb">Explore Code</a>
+    <a href="https://github.com/capstone606/DATA-606-Capstone-Project/blob/main/TeamG_phase1.ipynb">Python Code</a>
+     ·
+    <a href="https://github.com/capstone606/DATA-606-Capstone-Project/blob/main/TeamG_phase1.ipynb">Presentation</a>
     
   </p>
 </div>
