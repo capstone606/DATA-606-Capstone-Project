@@ -86,8 +86,8 @@ Use the `README.md` to get started.
 
 We have used Machine Learning libraries like Tensorflow,XG Boost, SK Learn and Python libraries like Pandas, Numpy, Seaborn, Math. We have used tools like Google Colab, GitHUB.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
+* [![Python][Python]][Python-url]
+* [![Google Colab][Google Colab]][Google Colab-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,8 +114,8 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://python.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
+[Python]: https://djeqr6to3dedg.cloudfront.net/repo-logos/library/python/live/logo.png
+[Python-url]: https://python.org/
+[Google Colab]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[Google Colab-url]: https://colab.research.google.com/
 
