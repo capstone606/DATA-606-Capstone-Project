@@ -81,7 +81,7 @@ Use the `README.md` to get started.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+<!--Tools and Libraries Used -->
 ### Tools and Libraries Used
 
 We have used Machine Learning libraries like Tensorflow,XG Boost, SK Learn and Python libraries like Pandas, Numpy, Seaborn, Math. We have used tools like Google Colab, GitHUB.
@@ -92,20 +92,30 @@ We have used Machine Learning libraries like Tensorflow,XG Boost, SK Learn and P
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!--Models Built -->
+### Models Built
+
+We have utilised machine learning models like Linear Regression, Random Forest, XG Boost, LSTM.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!--Model Results -->
+### Model Results
+
+We have utilised machine learning models like Linear Regression, Random Forest, XG Boost, LSTM.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+We thank our professor Unal Sakoglu for invaluable guidance and support throughout this project. His expertise and encouragement have been instrumental in this project completion. 
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
