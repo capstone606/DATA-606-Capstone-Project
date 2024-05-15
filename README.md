@@ -114,8 +114,8 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[Python]: https://djeqr6to3dedg.cloudfront.net/repo-logos/library/python/live/logo.png
+[Python]: https://djeqr6to3dedg.cloudfront.net/repo-logos/library/python/live/logo.png 
 [Python-url]: https://python.org/
-[Google Colab]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[Google Colab]:https://media.licdn.com/dms/image/D5612AQFCsBJ9kV2Meg/article-cover_image-shrink_600_2000/0/1693671062221?e=2147483647&v=beta&t=kuUAueWD4OeUWzJd6f_zqZbBT6KO3xgW_Uw-2AcCb0M
 [Google Colab-url]: https://colab.research.google.com/
 
