@@ -89,7 +89,7 @@ We have utilised machine learning models like Linear Regression, Random Forest, 
 <!--Model Results -->
 ### Model Results
 
-[![Product Name Screen Shot][product-screenshot]](https://drive.google.com/file/d/17pxZ9VieDR9wWMWN20FwRj8Nd0OGQJSt/view)
+[![model-screenshot][model-screenshot]](https://drive.google.com/file/d/17pxZ9VieDR9wWMWN20FwRj8Nd0OGQJSt/view)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -115,5 +115,5 @@ We thank our professor Unal Sakoglu for invaluable guidance and support througho
 [Google Colab]:https://media.licdn.com/dms/image/D5612AQFCsBJ9kV2Meg/article-cover_image-shrink_600_2000/0/1693671062221?e=2147483647&v=beta&t=kuUAueWD4OeUWzJd6f_zqZbBT6KO3xgW_Uw-2AcCb0M
 
 [Google Colab-url]: https://colab.research.google.com/
-[product-screenshot]: https://drive.google.com/file/d/17pxZ9VieDR9wWMWN20FwRj8Nd0OGQJSt/view
+[model-screenshot]: https://drive.google.com/file/d/17pxZ9VieDR9wWMWN20FwRj8Nd0OGQJSt/view/
 
