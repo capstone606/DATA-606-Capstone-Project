@@ -18,12 +18,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -31,17 +25,9 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Electricity Price and Load Prediction</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong></strong></a>
-    <br />
-    <br />
     <a href="https://github.com/othneildrew/Best-README-Template">Explore Documentation</a>
     ·
     <a href="https://github.com/capstone606/DATA-606-Capstone-Project/blob/main/TeamG_phase1.ipynb">Explore Code</a>
@@ -72,7 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 This project focuses on analyzing historical energy consumption data alongside weather patterns to forecast future electricity load and electricity price of Spain. We have hourly data of energy and weather of Spain from the year 2015 to 2018. We are splitting our data into training and testing set. Training set being 3 years of historical data(from year 2015 to 2017) and testing set being different size of the year 2048. Ex: 1 Day, 1 Week, 1 Month, 6 Months, 1 Year. We used models like Linear Regression, Random Forest, XG Boost, LSTM to predict future price and load. We achieved good predictions when using LSTM model.    
 
