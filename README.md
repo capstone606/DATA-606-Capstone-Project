@@ -28,7 +28,7 @@
   </a>
 
   <h3 align="center">Electricity Price and Load Prediction</h3>
-    <a href="[https://github.com/othneildrew/Best-README-Template](https://github.com/capstone606/DATA-606-Capstone-Project/blob/main/DS606_TeamG_Boddu_Khan_Madhireddy_Malyala_EnergyLoadAndPricePrediction_Final_Report.pdf)">Documentation</a>
+    <a href="[https://github.com/othneildrew/Best-README-Template](https://github.com/capstone606/DATA-606-Capstone-Project/blob/main/DS606_TeamG_Boddu_Khan_Madhireddy_Malyala_EnergyLoadAndPricePrediction_Final_Report.pdf) ">Documentation</a>
     ·
     <a href="https://github.com/capstone606/DATA-606-Capstone-Project/blob/main/DS606_TeamG_Boddu_Khan_Madhireddy_Malyala_EnergyLoadAndPricePrediction_Final.ipynb">Python Code</a>
      ·
